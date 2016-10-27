@@ -1,0 +1,61 @@
+[12-Jul-2016 19:46:15 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160712.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[12-Jul-2016 19:46:15 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[12-Jul-2016 19:46:15 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160715.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160803.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160829.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160901.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[05-Sep-2016 15:30:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 15:30:29 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 15:30:37 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 15:30:37 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160905.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[05-Sep-2016 15:30:37 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[05-Sep-2016 15:30:37 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[05-Sep-2016 15:30:37 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160905.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160906.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160906.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 11:09:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:09:45 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160906.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[06-Sep-2016 11:09:45 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[06-Sep-2016 11:09:45 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[06-Sep-2016 11:09:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 11:11:09 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:11:09 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160906.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[06-Sep-2016 11:11:09 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[06-Sep-2016 11:11:09 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[06-Sep-2016 11:11:09 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160906.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[08-Sep-2016 11:23:11 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[08-Sep-2016 11:23:11 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160908.log): failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[08-Sep-2016 11:23:11 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[08-Sep-2016 11:23:11 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[08-Sep-2016 11:23:11 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21

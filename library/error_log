@@ -1,0 +1,851 @@
+[12-Jul-2016 19:35:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_id in /home/lavakode/public_html/asm/library/index.php on line 5
+[12-Jul-2016 19:35:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: permissions in /home/lavakode/public_html/asm/library/index.php on line 6
+[12-Jul-2016 19:35:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: permissions in /home/lavakode/public_html/asm/library/index.php on line 9
+[12-Jul-2016 19:46:15 Asia/Kuala_Lumpur] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/lavakode/public_html/asm/library/class.php on line 55
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[12-Jul-2016 19:48:34 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[12-Jul-2016 19:48:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[12-Jul-2016 19:48:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[12-Jul-2016 19:48:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[12-Jul-2016 19:50:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[12-Jul-2016 19:50:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[12-Jul-2016 19:50:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[12-Jul-2016 19:50:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/category.php on line 62
+[12-Jul-2016 19:50:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category.php on line 107
+[12-Jul-2016 19:50:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category.php on line 110
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category_details.php on line 86
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category_details.php on line 87
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:50:27 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[12-Jul-2016 19:52:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: code in /home/lavakode/public_html/asm/library/bookissue.php on line 107
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookissue.php on line 708
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 8 in /home/lavakode/public_html/asm/library/bookissue.php on line 709
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:17 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: code in /home/lavakode/public_html/asm/library/bookissue.php on line 107
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160712.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookissue.php on line 708
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 8 in /home/lavakode/public_html/asm/library/bookissue.php on line 709
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[12-Jul-2016 19:52:22 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[15-Jul-2016 00:04:51 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[15-Jul-2016 00:07:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[15-Jul-2016 00:07:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[15-Jul-2016 00:07:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[15-Jul-2016 00:07:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[15-Jul-2016 00:07:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[15-Jul-2016 00:07:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookissue.php on line 708
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 8 in /home/lavakode/public_html/asm/library/bookissue.php on line 709
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:29 Asia/Kuala_Lumpur] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[15-Jul-2016 00:08:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: book_code in /home/lavakode/public_html/asm/library/bookissue.php on line 82
+[15-Jul-2016 00:08:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: member_ic in /home/lavakode/public_html/asm/library/bookissue.php on line 82
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookissue.php on line 708
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 8 in /home/lavakode/public_html/asm/library/bookissue.php on line 709
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:32 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[15-Jul-2016 00:08:37 Asia/Kuala_Lumpur] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[15-Jul-2016 00:08:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: book_code in /home/lavakode/public_html/asm/library/bookissue.php on line 82
+[15-Jul-2016 00:08:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: member_ic in /home/lavakode/public_html/asm/library/bookissue.php on line 82
+[15-Jul-2016 00:08:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookissue.php on line 220
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[03-Aug-2016 11:51:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[03-Aug-2016 11:55:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[03-Aug-2016 11:55:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[03-Aug-2016 11:55:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[03-Aug-2016 11:55:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 144
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 145
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 147
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 153
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 153
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 153
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 154
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 155
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/bookupdate.php on line 156
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Warning:  fopen(/160803.log) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/lavakode/public_html/asm/classes/audit_trail.php on line 14
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 15
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/audit_trail.php on line 16
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[03-Aug-2016 11:55:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[03-Aug-2016 11:55:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/category.php on line 62
+[03-Aug-2016 11:55:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category.php on line 107
+[03-Aug-2016 11:55:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category.php on line 110
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category_details.php on line 86
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category_details.php on line 87
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category_details.php on line 86
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category_details.php on line 87
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:55:55 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category_details.php on line 86
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category_details.php on line 87
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category_details.php on line 86
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category_details.php on line 87
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[03-Aug-2016 11:56:04 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[29-Aug-2016 09:16:01 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[01-Sep-2016 11:44:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[05-Sep-2016 15:30:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[05-Sep-2016 21:55:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:17:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[05-Sep-2016 22:17:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[05-Sep-2016 22:17:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[05-Sep-2016 22:18:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[05-Sep-2016 22:18:03 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mode in /home/lavakode/public_html/asm/library/search_books.php on line 63
+[05-Sep-2016 22:18:15 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/search_result.php on line 313
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/search_result.php on line 314
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[05-Sep-2016 22:18:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[05-Sep-2016 22:18:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[05-Sep-2016 22:18:26 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[05-Sep-2016 22:18:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[05-Sep-2016 22:18:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[05-Sep-2016 22:18:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[05-Sep-2016 22:18:26 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[05-Sep-2016 22:18:33 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:33 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:33 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[05-Sep-2016 22:18:33 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[05-Sep-2016 22:18:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[05-Sep-2016 22:18:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[05-Sep-2016 22:18:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[05-Sep-2016 22:18:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[05-Sep-2016 22:18:45 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[05-Sep-2016 22:18:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[05-Sep-2016 22:18:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[05-Sep-2016 22:18:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[05-Sep-2016 22:18:45 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[05-Sep-2016 22:18:48 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:48 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:48 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[05-Sep-2016 22:18:48 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[05-Sep-2016 22:18:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[05-Sep-2016 22:18:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 10:39:59 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 10:41:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:46:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/category.php on line 62
+[06-Sep-2016 10:46:25 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:46:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category.php on line 107
+[06-Sep-2016 10:46:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category.php on line 110
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 10:46:29 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 10:55:43 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:56:18 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[06-Sep-2016 10:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[06-Sep-2016 10:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: code in /home/lavakode/public_html/asm/library/bookissue.php on line 107
+[06-Sep-2016 10:56:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:56:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[06-Sep-2016 10:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[06-Sep-2016 10:56:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[06-Sep-2016 10:56:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[06-Sep-2016 10:56:36 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:58:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:58:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:58:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:58:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[06-Sep-2016 10:58:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:58:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[06-Sep-2016 10:58:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[06-Sep-2016 10:58:50 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:58:50 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:58:50 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:59:07 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:59:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookmodify.php on line 64
+[06-Sep-2016 10:59:07 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 10:59:07 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 11:00:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:00:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[06-Sep-2016 11:00:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[06-Sep-2016 11:00:11 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:00:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/category.php on line 62
+[06-Sep-2016 11:00:23 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:00:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category.php on line 107
+[06-Sep-2016 11:00:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category.php on line 110
+[06-Sep-2016 11:00:51 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mode in /home/lavakode/public_html/asm/library/search_books.php on line 63
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/search_result.php on line 313
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/search_result.php on line 314
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:11 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:11 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:11 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[06-Sep-2016 11:01:11 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[06-Sep-2016 11:01:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: category in /home/lavakode/public_html/asm/library/search_result.php on line 66
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: status in /home/lavakode/public_html/asm/library/search_result.php on line 96
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: status in /home/lavakode/public_html/asm/library/search_result.php on line 97
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: status in /home/lavakode/public_html/asm/library/search_result.php on line 98
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: book_code in /home/lavakode/public_html/asm/library/search_result.php on line 110
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 110
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: subject in /home/lavakode/public_html/asm/library/search_result.php on line 111
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 111
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: category in /home/lavakode/public_html/asm/library/search_result.php on line 112
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 112
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: isbn in /home/lavakode/public_html/asm/library/search_result.php on line 113
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 113
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: book_title in /home/lavakode/public_html/asm/library/search_result.php on line 114
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 114
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: author in /home/lavakode/public_html/asm/library/search_result.php on line 115
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 115
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: status in /home/lavakode/public_html/asm/library/search_result.php on line 116
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 116
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/search_result.php on line 158
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/search_result.php on line 159
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 110
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 111
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 112
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 113
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 114
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 115
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/search_result.php on line 116
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/search_result.php on line 158
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/search_result.php on line 159
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:01:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: keyword in /home/lavakode/public_html/asm/library/search_result.php on line 288
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/search_result.php on line 313
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/search_result.php on line 314
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/category.php on line 62
+[06-Sep-2016 11:02:41 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:02:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/category.php on line 107
+[06-Sep-2016 11:02:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/category.php on line 110
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 11:03:23 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:36 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:36 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:36 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[06-Sep-2016 11:03:36 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[06-Sep-2016 11:03:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[06-Sep-2016 11:03:59 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[06-Sep-2016 11:03:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[06-Sep-2016 11:03:59 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:59 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:03:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[06-Sep-2016 11:03:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[06-Sep-2016 11:03:59 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[06-Sep-2016 11:04:09 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookmodify.php on line 64
+[06-Sep-2016 11:04:09 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:09 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:24 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookmodify.php on line 64
+[06-Sep-2016 11:04:24 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:24 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:04:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:05:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[06-Sep-2016 11:05:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[06-Sep-2016 11:05:22 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 101
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/lavakode/public_html/asm/library/booknew.php on line 113
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): '/tmp/php27Zszs' is not a valid JPEG file in /home/lavakode/public_html/asm/library/booknew.php on line 113
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/lavakode/public_html/asm/library/booknew.php on line 129
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/library/booknew.php on line 136
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/fileupload-class.php on line 227
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: type in /home/lavakode/public_html/asm/library/fileupload-class.php on line 230
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg() is deprecated in /home/lavakode/public_html/asm/library/fileupload-class.php on line 235
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: extention in /home/lavakode/public_html/asm/library/fileupload-class.php on line 243
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: type in /home/lavakode/public_html/asm/library/booknew.php on line 164
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 169
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 171
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 177
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 177
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 177
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 178
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 179
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 180
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[06-Sep-2016 11:06:08 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: kat in /home/lavakode/public_html/asm/library/booknew.php on line 17
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 101
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/lavakode/public_html/asm/library/booknew.php on line 113
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  getimagesize(): Filename cannot be empty in /home/lavakode/public_html/asm/library/booknew.php on line 116
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  Division by zero in /home/lavakode/public_html/asm/library/booknew.php on line 124
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/lavakode/public_html/asm/library/booknew.php on line 125
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/library/booknew.php on line 129
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/library/booknew.php on line 134
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/library/booknew.php on line 136
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/library/booknew.php on line 137
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/fileupload-class.php on line 227
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: type in /home/lavakode/public_html/asm/library/fileupload-class.php on line 230
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg() is deprecated in /home/lavakode/public_html/asm/library/fileupload-class.php on line 235
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: extention in /home/lavakode/public_html/asm/library/fileupload-class.php on line 243
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: type in /home/lavakode/public_html/asm/library/booknew.php on line 164
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 169
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 171
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 177
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 177
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 177
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 178
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 179
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/library/booknew.php on line 180
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/booknew.php on line 225
+[06-Sep-2016 11:06:21 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 11:06:44 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/search_result.php on line 313
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/search_result.php on line 314
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[06-Sep-2016 11:06:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:06:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[06-Sep-2016 11:06:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[06-Sep-2016 11:07:31 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[06-Sep-2016 11:07:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[06-Sep-2016 11:07:31 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:07:31 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:07:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[06-Sep-2016 11:07:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[06-Sep-2016 11:07:31 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[06-Sep-2016 11:09:45 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function user_index() in /home/lavakode/public_html/asm/library/index.php on line 66
+[06-Sep-2016 11:10:33 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function user_index() in /home/lavakode/public_html/asm/library/index.php on line 66
+[06-Sep-2016 11:11:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: permissions in /home/lavakode/public_html/asm/library/category.php on line 8
+[06-Sep-2016 11:11:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function user_index() in /home/lavakode/public_html/asm/library/index.php on line 66
+[06-Sep-2016 11:11:12 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function user_index() in /home/lavakode/public_html/asm/library/index.php on line 66
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 11:13:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: code in /home/lavakode/public_html/asm/library/bookissue.php on line 107
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: code in /home/lavakode/public_html/asm/library/bookissue.php on line 107
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[06-Sep-2016 11:14:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[06-Sep-2016 11:14:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mode in /home/lavakode/public_html/asm/library/search_books.php on line 63
+[06-Sep-2016 11:14:57 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:57 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:57 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: PHP_SELF in /home/lavakode/public_html/asm/library/bookdetails.php on line 200
+[06-Sep-2016 11:14:57 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:14:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookdetails.php on line 216
+[06-Sep-2016 11:14:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookdetails.php on line 217
+[06-Sep-2016 11:15:05 Asia/Kuala_Lumpur] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/lavakode/public_html/asm/library/breadcrumb.php on line 104
+[06-Sep-2016 11:15:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: action in /home/lavakode/public_html/asm/library/bookissue.php on line 80
+[06-Sep-2016 11:15:05 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:15:05 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:15:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/bookissue.php on line 557
+[06-Sep-2016 11:15:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/bookissue.php on line 558
+[06-Sep-2016 11:15:05 Asia/Kuala_Lumpur] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/lavakode/public_html/asm/library/bookissue.php on line 592
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[06-Sep-2016 11:22:52 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg_replace() is deprecated in /home/lavakode/public_html/asm/includes/functions.php on line 71
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/library/index.php on line 133
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/library/index.php on line 134
+[08-Sep-2016 11:23:12 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/library/class.php on line 55
+[19-Sep-2016 11:03:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_id in /home/lavakode/public_html/asm/library/index.php on line 5
+[19-Sep-2016 11:03:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: permissions in /home/lavakode/public_html/asm/library/index.php on line 6
+[19-Sep-2016 11:03:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: permissions in /home/lavakode/public_html/asm/library/index.php on line 9
+[19-Sep-2016 11:03:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_id in /home/lavakode/public_html/asm/library/index.php on line 5
+[19-Sep-2016 11:03:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: permissions in /home/lavakode/public_html/asm/library/index.php on line 6
+[19-Sep-2016 11:03:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: permissions in /home/lavakode/public_html/asm/library/index.php on line 9

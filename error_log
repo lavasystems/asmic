@@ -1,0 +1,863 @@
+[12-Jul-2016 19:46:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[12-Jul-2016 19:46:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[12-Jul-2016 19:50:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_id in /home/lavakode/public_html/asm/user/user_edit.php on line 193
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[12-Jul-2016 19:51:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_id in /home/lavakode/public_html/asm/user/user_edit.php on line 193
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[12-Jul-2016 19:51:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_id in /home/lavakode/public_html/asm/user/user_edit.php on line 193
+[12-Jul-2016 19:51:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:51:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:51:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[12-Jul-2016 19:51:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/group_main.php on line 8
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: group_st in /home/lavakode/public_html/asm/user/group_main.php on line 10
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/group_main.php on line 11
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/group_main.php on line 12
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 14
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 21
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 28
+[12-Jul-2016 19:51:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 35
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[12-Jul-2016 19:51:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path1 in /home/lavakode/public_html/asm/user/user_main.php on line 60
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_grpid in /home/lavakode/public_html/asm/user/search.php on line 20
+[12-Jul-2016 19:51:55 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/search.php on line 33
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/audittrail.php on line 13
+[12-Jul-2016 19:51:58 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/audittrail.php on line 23
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/audittrail.php on line 13
+[12-Jul-2016 19:52:04 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/audittrail.php on line 23
+[12-Jul-2016 19:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[12-Jul-2016 19:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[12-Jul-2016 19:52:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[12-Jul-2016 19:52:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[12-Jul-2016 19:52:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[12-Jul-2016 19:52:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[12-Jul-2016 19:52:27 Asia/Kuala_Lumpur] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[12-Jul-2016 19:52:27 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[12-Jul-2016 19:52:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[15-Jul-2016 00:04:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/group_main.php on line 8
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: group_st in /home/lavakode/public_html/asm/user/group_main.php on line 10
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/group_main.php on line 11
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/group_main.php on line 12
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 14
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 21
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 28
+[15-Jul-2016 00:05:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 35
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'lavakode'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[15-Jul-2016 00:05:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path1 in /home/lavakode/public_html/asm/user/user_main.php on line 60
+[15-Jul-2016 00:06:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[15-Jul-2016 00:06:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[15-Jul-2016 00:06:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[15-Jul-2016 00:06:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[15-Jul-2016 00:06:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[15-Jul-2016 00:06:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[15-Jul-2016 00:06:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[15-Jul-2016 00:06:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[15-Jul-2016 00:06:56 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[15-Jul-2016 00:06:56 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[15-Jul-2016 00:06:56 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[15-Jul-2016 00:06:56 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[03-Aug-2016 11:51:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[03-Aug-2016 11:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[03-Aug-2016 11:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[03-Aug-2016 11:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[03-Aug-2016 11:52:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[03-Aug-2016 11:55:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[03-Aug-2016 11:55:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[03-Aug-2016 11:55:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[03-Aug-2016 11:55:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/audittrail.php on line 13
+[03-Aug-2016 11:56:02 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/audittrail.php on line 23
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_grpid in /home/lavakode/public_html/asm/user/search.php on line 20
+[03-Aug-2016 11:56:06 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/search.php on line 33
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[03-Aug-2016 11:56:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[03-Aug-2016 11:56:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path1 in /home/lavakode/public_html/asm/user/user_main.php on line 60
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: success in /home/lavakode/public_html/asm/user/user_edit.php on line 121
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: start in /home/lavakode/public_html/asm/user/user_edit.php on line 175
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: bookcode in /home/lavakode/public_html/asm/user/user_edit.php on line 176
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: contact_id in /home/lavakode/public_html/asm/user/user_edit.php on line 194
+[03-Aug-2016 11:56:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: stdClass::$usr_password in /home/lavakode/public_html/asm/user/user_edit.php on line 210
+[03-Aug-2016 11:59:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[03-Aug-2016 11:59:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[03-Aug-2016 11:59:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[03-Aug-2016 11:59:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[03-Aug-2016 11:59:29 Asia/Kuala_Lumpur] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[03-Aug-2016 11:59:29 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[03-Aug-2016 11:59:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[03-Aug-2016 12:01:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[29-Aug-2016 09:15:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[29-Aug-2016 09:15:43 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[29-Aug-2016 09:34:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[29-Aug-2016 09:34:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[29-Aug-2016 09:34:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[29-Aug-2016 09:34:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[29-Aug-2016 09:34:12 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[29-Aug-2016 09:34:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path1 in /home/lavakode/public_html/asm/user/user_main.php on line 60
+[01-Sep-2016 11:44:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[01-Sep-2016 12:56:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[01-Sep-2016 12:56:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[01-Sep-2016 12:56:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[01-Sep-2016 12:56:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[01-Sep-2016 12:56:15 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[01-Sep-2016 12:56:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[01-Sep-2016 12:56:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[01-Sep-2016 12:56:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[01-Sep-2016 12:56:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[01-Sep-2016 12:56:31 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 15:30:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[05-Sep-2016 15:30:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[05-Sep-2016 15:30:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/group_main.php on line 8
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: group_st in /home/lavakode/public_html/asm/user/group_main.php on line 10
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/group_main.php on line 11
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/group_main.php on line 12
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 14
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 21
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 28
+[05-Sep-2016 16:12:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 35
+[05-Sep-2016 16:12:20 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 16:12:20 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[05-Sep-2016 16:12:20 Asia/Kuala_Lumpur] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[05-Sep-2016 16:12:20 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[05-Sep-2016 16:12:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[05-Sep-2016 21:55:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[05-Sep-2016 22:18:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[05-Sep-2016 22:18:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[05-Sep-2016 22:18:53 Asia/Kuala_Lumpur] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[05-Sep-2016 22:18:53 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[05-Sep-2016 22:18:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[06-Sep-2016 10:39:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[06-Sep-2016 10:39:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[06-Sep-2016 10:40:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:40:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:40:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 10:40:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 10:40:26 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:40:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:40:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:40:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 10:40:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 10:40:57 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/group_main.php on line 8
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: group_st in /home/lavakode/public_html/asm/user/group_main.php on line 10
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/group_main.php on line 11
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/group_main.php on line 12
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 14
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 21
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 28
+[06-Sep-2016 10:41:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 35
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[06-Sep-2016 10:41:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path1 in /home/lavakode/public_html/asm/user/user_main.php on line 60
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/group_main.php on line 8
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: group_st in /home/lavakode/public_html/asm/user/group_main.php on line 10
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/group_main.php on line 11
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/group_main.php on line 12
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 14
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 21
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 28
+[06-Sep-2016 10:46:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/group_main.php on line 35
+[06-Sep-2016 10:46:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:46:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:46:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 10:46:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 10:46:22 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[06-Sep-2016 10:48:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path1 in /home/lavakode/public_html/asm/user/user_main.php on line 60
+[06-Sep-2016 10:49:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:49:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:49:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 10:49:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 10:49:45 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: obj in /home/lavakode/public_html/asm/user/main.php on line 9
+[06-Sep-2016 10:49:53 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/main.php on line 23
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: obj in /home/lavakode/public_html/asm/user/main.php on line 9
+[06-Sep-2016 10:49:54 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/main.php on line 23
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:49:55 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:49:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_grpid in /home/lavakode/public_html/asm/user/search.php on line 20
+[06-Sep-2016 10:49:57 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/search.php on line 33
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_grpid in /home/lavakode/public_html/asm/user/search.php on line 20
+[06-Sep-2016 10:50:00 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/search.php on line 33
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_grpid in /home/lavakode/public_html/asm/user/search.php on line 20
+[06-Sep-2016 10:50:06 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/search.php on line 33
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: usr_grpid in /home/lavakode/public_html/asm/user/search.php on line 20
+[06-Sep-2016 10:50:16 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/search.php on line 33
+[06-Sep-2016 10:50:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:50:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:50:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 10:50:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 10:50:18 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 10:50:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 10:50:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 10:50:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 10:50:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 10:50:36 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[06-Sep-2016 11:08:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path1 in /home/lavakode/public_html/asm/user/user_main.php on line 60
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: success in /home/lavakode/public_html/asm/user/user_edit.php on line 121
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: start in /home/lavakode/public_html/asm/user/user_edit.php on line 175
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: bookcode in /home/lavakode/public_html/asm/user/user_edit.php on line 176
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: contact_id in /home/lavakode/public_html/asm/user/user_edit.php on line 194
+[06-Sep-2016 11:09:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: stdClass::$usr_password in /home/lavakode/public_html/asm/user/user_edit.php on line 210
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Deprecated:  Function ereg() is deprecated in /home/lavakode/public_html/asm/user/user_edit.php on line 51
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/user/user_edit.php on line 72
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: test in /home/lavakode/public_html/asm/user/user_edit.php on line 113
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_edit.php on line 113
+[06-Sep-2016 11:09:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: link in /home/lavakode/public_html/asm/user/user_edit.php on line 115
+[06-Sep-2016 11:09:35 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:09:35 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 11:09:35 Asia/Kuala_Lumpur] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[06-Sep-2016 11:09:35 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[06-Sep-2016 11:09:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[06-Sep-2016 11:09:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:09:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:09:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 11:09:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 11:09:49 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: obj in /home/lavakode/public_html/asm/user/main.php on line 9
+[06-Sep-2016 11:10:50 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function printBodyHeader() in /home/lavakode/public_html/asm/user/main.php on line 23
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 20
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lavakode/public_html/asm/classes/user.php on line 22
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  Invalid argument supplied for foreach() in /home/lavakode/public_html/asm/classes/user.php on line 23
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: User::$usr_grpid in /home/lavakode/public_html/asm/classes/user.php on line 29
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lavakode/public_html/asm/classes/user.php on line 31
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/lavakode/public_html/asm/classes/user.php on line 34
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 36
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 40
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 44
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 48
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Trying to get property of non-object in /home/lavakode/public_html/asm/classes/user.php on line 52
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: st in /home/lavakode/public_html/asm/user/user_main.php on line 7
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: user_st in /home/lavakode/public_html/asm/user/user_main.php on line 9
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: nh in /home/lavakode/public_html/asm/user/user_main.php on line 10
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 11
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 13
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 20
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 27
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 34
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/user/user_main.php on line 41
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: app_absolute_path in /home/lavakode/public_html/asm/user/user_main.php on line 51
+[06-Sep-2016 11:10:54 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/user_main.php on line 51
+[06-Sep-2016 11:11:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[06-Sep-2016 11:11:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:11:27 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 11:11:27 Asia/Kuala_Lumpur] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[06-Sep-2016 11:11:27 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[06-Sep-2016 11:13:13 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:13:13 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 11:13:13 Asia/Kuala_Lumpur] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[06-Sep-2016 11:13:13 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[06-Sep-2016 11:13:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[06-Sep-2016 11:16:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:16:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:16:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 11:16:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 11:16:40 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:17:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:17:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:17:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: fld_id in /home/lavakode/public_html/asm/document/browse.php on line 12
+[06-Sep-2016 11:17:04 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:17:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:17:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:17:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: fld_id in /home/lavakode/public_html/asm/document/browse.php on line 12
+[06-Sep-2016 11:17:15 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 11:19:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[06-Sep-2016 11:19:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[06-Sep-2016 11:19:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[06-Sep-2016 11:19:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[06-Sep-2016 11:19:29 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 12:47:12 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[06-Sep-2016 12:47:12 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[06-Sep-2016 12:47:12 Asia/Kuala_Lumpur] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[06-Sep-2016 12:47:12 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[07-Sep-2016 16:30:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[08-Sep-2016 11:22:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[08-Sep-2016 11:23:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 52
+[08-Sep-2016 11:23:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: do in /home/lavakode/public_html/asm/index.php on line 85
+[08-Sep-2016 11:23:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 12
+[08-Sep-2016 11:23:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: mod in /home/lavakode/public_html/asm/includes/modules.php on line 15
+[08-Sep-2016 11:23:19 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[08-Sep-2016 11:29:10 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lavakode/public_html/asm/includes/database.php on line 11
+[08-Sep-2016 11:29:10 Asia/Kuala_Lumpur] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/lavakode/public_html/asm/classes/audit_trail.php on line 21
+[08-Sep-2016 11:29:10 Asia/Kuala_Lumpur] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/lavakode/public_html/asm/user/logout.php on line 16
+[08-Sep-2016 11:29:10 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lavakode/public_html/asm/inc/navigation.php:6) in /home/lavakode/public_html/asm/user/logout.php on line 19
+[08-Sep-2016 11:29:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[19-Sep-2016 07:06:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[19-Sep-2016 07:06:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[19-Sep-2016 11:03:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[19-Sep-2016 11:03:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[19-Sep-2016 11:13:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
+[23-Sep-2016 15:31:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: err_msg in /home/lavakode/public_html/asm/index.php on line 76
